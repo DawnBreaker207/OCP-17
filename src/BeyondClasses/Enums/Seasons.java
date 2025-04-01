@@ -64,7 +64,7 @@ public class Seasons {
 
     public static void main(String[] args) {
 	var s = new Seasons();
-	s.checkSeaon();
+	s.checkSeaon();  
 	s.loopSeaon();
 
 	Season s2 = Season.valueOf("SUMMER"); // SUMMER
